@@ -1,3 +1,29 @@
+Projeto criado no intuito de reforçar os conhecimentos em React.js.
+
+Neste projeto estou usando o que existe de mais básico no React. Criei a patir  do template create react app.
+
+Quero atravez dele, consolidar meus conhecimentos em react e estilização em css puro.
+Por isso abri mão de ferramentas como typescript, styled-components e next.js.
+
+Estou treinandoa criação de componentes enxutos e funcionais que consultam a API externa do jogo Black Desert online.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
