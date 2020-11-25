@@ -1,7 +1,7 @@
-import react from 'react'
+// import react from 'react'
 import './home.css';
 import Button from '../../components/button/Button'
-import image from '../../assets/guardian.png'
+
 
 function Home(){
     return(
