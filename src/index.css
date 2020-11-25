@@ -5,9 +5,25 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  background: linear-gradient(243.18deg, #FFB5B5 0%, #BBB7FF 100%);
+  background-repeat: no-repeat;
+  align-items: center;
+  justify-content: center;
+
+
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+h1{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 36px;
+line-height: 42px;
+color: #000000;
 }

@@ -1,0 +1,25 @@
+.button{
+        width: 233px;
+        height: 56px;
+        background: linear-gradient(270deg, #7861FD 0%, #778FFC 100%);
+        border-radius: 91px;
+        color: #ffffff;
+        text-align: center;
+        font-family: "Roboto";
+        font-size: 24px;
+        font-weight: 700;
+        border: 0px;
+        cursor: pointer;
+        padding: 0;
+        outline:none
+
+}
+.button:hover{
+    background: linear-gradient(270deg, #a191f8 0%, #90a3f5 100%);
+    transition: .50s;
+}
+
+.button:focus {
+    border: none;
+    outline: none;
+}
