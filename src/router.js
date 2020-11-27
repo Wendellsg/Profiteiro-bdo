@@ -8,6 +8,7 @@ import {
 
 import Home from './pages/Home/home'
 import Receitas from './pages/receitas/receitas'
+import Resultado from './pages/resultado/resultado'
 
 
 function Routes(){
@@ -19,6 +20,9 @@ function Routes(){
                 </Route>
                 <Route path="/receitas">
                 <Receitas />
+                </Route>
+                <Route path="/resultado">
+                <Resultado />
                 </Route>
                 </Switch>
             </BrowserRouter>

@@ -6,7 +6,7 @@ import {Link} from 'react-router-dom'
 
 function Home(){
     return(
-        <div className="conteiner">
+        <div className="conteinerHome">
                 <div className="textbox">
                     <h1>Calcule o lucro exato das suas receitas no Black Desert</h1>
                 </div>
