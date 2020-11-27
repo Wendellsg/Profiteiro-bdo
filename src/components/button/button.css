@@ -1,12 +1,12 @@
 .button{
-        width: 233px;
-        height: 56px;
+        width: 150px;
+        height: 40px;
         background: linear-gradient(270deg, #7861FD 0%, #778FFC 100%);
         border-radius: 91px;
         color: #ffffff;
         text-align: center;
         font-family: "Roboto";
-        font-size: 24px;
+        font-size: 20px;
         font-weight: 700;
         border: 0px;
         cursor: pointer;
