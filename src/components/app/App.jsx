@@ -1,11 +1,11 @@
 import './app.css';
-import Home from '../../pages/Home/home'
+import Routes from "../../router"
 
 
 function App(){
     return(
         <div className="container">
-            <Home/>
+            <Routes/>
         </div>
     )
 }

@@ -1,0 +1,23 @@
+.input{
+    width: 247.02px;
+    height: 29px;
+    background: #FFFFFF;
+    border: 0.258929px solid #fdfdfd;
+    box-sizing: border-box;
+    border-radius: 47.125px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12.4286px;
+    line-height: 15px;
+    text-align: center;
+    box-sizing: border-box;
+
+
+
+    color: #7C7C7C;
+}
+
+.input:focus{
+    outline: none;
+}
