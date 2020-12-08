@@ -1,0 +1,29 @@
+.item{
+    position: relative;
+    height: 47px;
+    width: 47px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.itemImage{
+    height: 75px;
+    width: 75px;
+    display: flex;
+    align-items: center;
+    border: 5px solid #FFFFFF;
+    border-radius: 50%;
+    background-color:rgb(138, 103, 74);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+
+
+}
+
+h2 .itemName{
+    font-size: 10;
+}
+
+
