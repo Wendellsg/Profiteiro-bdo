@@ -1,13 +1,14 @@
 import './subitem.css';
 
-function Item(props){
+function SubItem(props){
     return(
-        <div className="item">
-            <div style={{backgroundImage:`url(${props.img})`}} className="itemImage">
+        <div className="Subitem">
+            <div style={{backgroundImage:`url(${props.img})`}} className="SubitemImage">
                 
             </div>
-            <h2 className="itemName">{props.name}</h2>
+            <p className="SubitemName">{props.name}</p>
+            <p className="SubitemName">{props.quantity}</p>
         </div>
     )
 }
-export default Item;
+export default SubItem;
